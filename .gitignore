@@ -1,0 +1,4 @@
+# Project exclude paths
+/kafka-consumer-elasticsearch/target/
+/kafka-producer-twitter/target/
+/kafka-streams-filter-tweets/target/
