@@ -32,7 +32,7 @@ import java.util.Properties;
 public class ElasticSearchConsumer {
     public static RestHighLevelClient createClient() {
 
-        String hostName = "kafka-course-3426007860.eu-west-1.bonsaisearch.net";
+        String hostName = "";
         String username = "";
         String password = "";
 
